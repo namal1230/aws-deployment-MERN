@@ -1,6 +1,4 @@
-## 3️⃣ README for `MERN-Production`
-
-# MERN Backend — Production
+## 3️⃣   MERN Backend — Production
 
 https://github.com/namal1230/blog-dev-frontend.git<br>
 https://github.com/namal1230/MERN-BE-Production.git<br>
