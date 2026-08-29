@@ -2,6 +2,10 @@
 
 # MERN Backend — Production
 
+https://github.com/namal1230/blog-dev-frontend.git<br>
+https://github.com/namal1230/MERN-BE-Production.git<br>
+https://github.com/namal1230/MERN-BE-Development.git<br>
+
 A robust, enterprise-grade backend application built with **Express.js** and **TypeScript**, designed for production deployment. This backend provides comprehensive APIs for a SaaS/blog platform with advanced features including AI integration, email services, and cloud storage.
 
 ## 📋 Overview
